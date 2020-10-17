@@ -27,3 +27,6 @@ C:\Users\charl\myApp>ionic serve
 [vue-cli-service]   Note that the development build is not optimized.
 [vue-cli-service]   To create a production build, run npm run build.
 [vue-cli-service] No issues found.
+
+
+----------------------- https://ionicframework.com/docs/vue/quickstart
