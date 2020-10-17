@@ -1,0 +1,29 @@
+Your Ionic app is ready! Follow these next steps:
+
+- Go to your new project: cd .\myApp
+- Run ionic serve within the app directory to see your app in the browser
+- Run ionic capacitor add to add a native iOS or Android project using Capacitor
+- Generate your app icon and splash screens using cordova-res --skip-config --copy
+- Explore the Ionic docs for components, tutorials, and more: https://ion.link/docs
+- Building an enterprise app? Ionic has Enterprise Support and Features: https://ion.link/enterprise-edition
+
+C:\Users\charl>cd .\myApp
+
+C:\Users\charl\myApp>ionic serve
+> vue-cli-service.cmd serve
+[vue-cli-service]  INFO  Starting development server...
+
+[INFO] Development server running!
+
+       Local: http://localhost:8100
+
+       Use Ctrl+C to quit this process
+
+[INFO] Browser window opened to http://localhost:8100!
+
+[vue-cli-service]   App running at:
+[vue-cli-service]   - Local:   http://localhost:8100/
+[vue-cli-service]   - Network: http://192.168.1.29:8100/
+[vue-cli-service]   Note that the development build is not optimized.
+[vue-cli-service]   To create a production build, run npm run build.
+[vue-cli-service] No issues found.
