@@ -14,7 +14,7 @@
       </ion-header>
     
       <div id="container">
-        <strong>Stay focused, get shit done.</strong>
+        <strong>Stay focused.</strong>
         <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
       </div>
     </ion-content>
